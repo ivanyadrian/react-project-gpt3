@@ -1,2 +1,3 @@
-<h1 align="center">[Site preview](https://ivanyadrian.github.io/react-project-gpt3/)</h1>
+<p align="center"><a href="https://ivanyadrian.github.io/react-project-gpt3/">Site preview</a></p>
+
 
